@@ -2,4 +2,4 @@
 ## 📄 Supplementary Material
 For detailed implementation details referenced in the paper, please refer to the **HypoValAgent Supplementary Material** document.
 
-👉 [**Download HypoValAgent Supplementary Material.pdf**](./HypoValAgent Supplementary Material.pdf)
+👉 [**Download HypoValAgent Supplementary Material.pdf**](HypoValAgent Supplementary Material.pdf)
